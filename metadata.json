@@ -1,0 +1,8 @@
+{
+  "name": "Remix Coulee Creative Template - Creative Agency Showcase",
+  "description": "A modern, high-impact creative agency template inspired by Coulee Creative featuring dynamic rotating typography, an interactive portfolio grid, and clean design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
